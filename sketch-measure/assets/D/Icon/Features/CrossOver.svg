@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>D/Icon/Features/CrossOver</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icon/Unique/Crossover/Grey" transform="translate(-3.000000, -3.000000)" stroke="#A5B2BA">
+            <g id="D/Icon/Features/CrossOver" transform="translate(4.000000, 4.000000)">
+                <g id="CrossOver">
+                    <path d="M0,20.3636364 L24,20.3636364 L0,20.3636364 Z" id="Stroke-1"></path>
+                    <path d="M0,24 L0.727272727,24" id="Stroke-3"></path>
+                    <path d="M2.77672727,24 L22.248,24" id="Stroke-4" stroke-dasharray="1.879,2.818"></path>
+                    <path d="M23.2727273,24 L24,24" id="Stroke-5"></path>
+                    <path d="M1.45454545,13.7018182 L22.5454545,13.7018182 L1.45454545,13.7018182 Z" id="Path"></path>
+                    <path d="M21.9054545,20.3636364 C21.9054545,20.3636364 22.5454545,16.3789091 14.6712727,13.7018182" id="Path"></path>
+                    <path d="M1.17018182,20.3636364 C1.17018182,20.3636364 7.768,19.5425455 9.904,17.8785455 C13.5803636,15.0152727 7.35272727,13.7018182 7.35272727,13.7018182" id="Path"></path>
+                    <polygon id="Path" points="2.32872727 4.08727273 21.6705455 4.08727273 21.6705455 13.7018182 2.32872727 13.7018182"></polygon>
+                    <polygon id="Path" points="21.8181818 0 2.18181818 0 1.45454545 4.08727273 22.5454545 4.08727273"></polygon>
+                    <polyline id="Path" points="9.54545455 7.60363636 9.54545455 12 6.16145455 12 6.16145455 7.60363636"></polyline>
+                    <polyline id="Path" points="5.352 8.304 7.85309091 5.76290909 10.3549091 8.304"></polyline>
+                    <polyline id="Path" points="17.8385455 7.60363636 17.8385455 12 14.4545455 12 14.4545455 7.60363636"></polyline>
+                    <polyline id="Path" points="13.6450909 8.304 16.1469091 5.76290909 18.648 8.304"></polyline>
+                    <path d="M6.16145455,9.45527273 L9.54545455,9.45527273 L6.16145455,9.45527273 Z" id="Path"></path>
+                    <path d="M14.4545455,9.45527273 L17.8385455,9.45527273 L14.4545455,9.45527273 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>D/Icon/Features/Solar Hot Water</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icon/Unique/Solar-Hot-Water/Grey" transform="translate(-3.000000, -4.000000)" stroke="#A5B2BA">
+            <g id="D/Icon/Features/Solar-Hot-Water" transform="translate(3.000000, 4.000000)">
+                <g id="Solar-Hot-Water" transform="translate(-0.000000, 0.000000)">
+                    <path d="M15.7084908,7.40365714 C14.4439178,4.70278566 12,2.208 12,2.208 C12,2.208 9.5560822,4.70278566 8.29150924,7.40365714 L0.685714286,7.40365714 L0.685714286,0.685714286 L23.3142857,0.685714286 L23.3142857,7.40365714 L15.7084908,7.40365714 Z" id="Path"></path>
+                    <path d="M12,2.208 C12,2.208 16.4475429,6.74811429 16.4475429,10.2096 C16.4475429,12.6658286 14.4562286,14.6571429 12,14.6571429 C9.54377143,14.6571429 7.55245714,12.6658286 7.55245714,10.2096 C7.55245714,6.74811429 12,2.208 12,2.208" id="Stroke-4"></path>
+                    <path d="M14.6989714,9.9312 C14.6989714,11.2484571 13.8192,12.3606857 12.6144,12.7110857" id="Path"></path>
+                    <path d="M12,16.5716571 L12,23.3142857 L12,16.5716571 Z" id="Path"></path>
+                    <polyline id="Path" points="22.2857143 7.40365714 22.2857143 23.3142857 1.71428571 23.3142857 1.71428571 7.6583252"></polyline>
+                    <path d="M19.7142857,7.40365714 L19.7142857,23.3142857 L19.7142857,7.40365714 Z" id="Path"></path>
+                    <path d="M9.42857143,15.7556571 L9.42857143,23.3142857 L9.42857143,15.7556571 Z" id="Path"></path>
+                    <path d="M4.28571429,7.40365714 L4.28571429,23.3142857 L4.28571429,7.40365714 Z" id="Path"></path>
+                    <path d="M14.5714286,15.7556571 L14.5714286,23.3142857 L14.5714286,15.7556571 Z" id="Path"></path>
+                    <path d="M17.1428571,14.0859429 L17.1428571,23.3142857 L17.1428571,14.0859429 Z" id="Path"></path>
+                    <path d="M6.85714286,14.0859429 L6.85714286,23.3142857 L6.85714286,14.0859429 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

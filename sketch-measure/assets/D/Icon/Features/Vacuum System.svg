@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>D/Icon/Features/Vacuum System</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icon/Unique/Vacuum-System/Grey" transform="translate(-4.000000, -4.000000)" stroke="#A5B2BA">
+            <g id="D/Icon/Features/Vacuum-System" transform="translate(4.000000, 5.000000)">
+                <g id="Vacuum-System">
+                    <polygon points="23.5948052 20.0263481 9.34067532 20.0263481 10.1680208 17.3124156 22.7674597 17.3124156"></polygon>
+                    <polygon id="Path" points="18.9149922 17.3124156 14.0204883 17.3124156 14.8478338 14.5984831 18.0883948 14.5984831"></polygon>
+                    <polygon id="Path" points="9.34067532 20.0263481 23.5940571 20.0263481 23.5940571 22.5038961 9.34067532 22.5038961"></polygon>
+                    <polygon id="Path" points="15.5532468 14.5984831 17.3822338 14.5984831 17.3822338 3.64999481 15.5532468 3.64999481"></polygon>
+                    <path d="M8.51332987,3.64999481 C8.51332987,1.80455065 10.2936935,0.308446753 12.4907221,0.308446753 C14.6870026,0.308446753 16.4681143,1.80455065 16.4681143,3.64999481" id="Path"></path>
+                    <path d="M8.51332987,14.8677818 C8.51332987,16.5157403 7.20124675,17.851761 5.58246234,17.851761 C3.96442597,17.851761 2.65234286,16.5157403 2.65234286,14.8677818" id="Path"></path>
+                    <path d="M8.51332987,3.64999481 L8.51332987,14.8677818 L8.51332987,3.64999481 Z" id="Path"></path>
+                    <path d="M2.65234286,14.8677818 L2.65234286,4.39804675 L2.65234286,14.8677818 Z" id="Path"></path>
+                    <path d="M0.883948052,4.39804675 L4.42148571,4.39804675 L0.883948052,4.39804675 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>D/Icon/Features/Garages</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icon/Unique/Garages/Grey" transform="translate(-3.000000, -2.000000)" stroke="#A5B2BA">
+            <g id="D/Icon/Features/Garages" transform="translate(4.000000, 3.000000)">
+                <g id="Garages">
+                    <path d="M0.784934161,23.6124224 L0.784934161,5.55178137 L0.784934161,23.6124224 Z"></path>
+                    <path d="M22.8274882,23.6124224 L22.8274882,5.55178137 L22.8274882,23.6124224 Z" id="Path"></path>
+                    <path d="M0,2.58377143 L11.8062112,0 L0,2.58377143 Z" id="Path"></path>
+                    <path d="M23.6124224,2.58377143 L11.8062112,0 L23.6124224,2.58377143 Z" id="Path"></path>
+                    <polygon id="Path" points="0 2.58377143 23.6124224 2.58377143 23.6124224 5.3349764 0 5.3349764"></polygon>
+                    <path d="M0,23.6124224 L23.6124224,23.6124224 L0,23.6124224 Z" id="Path"></path>
+                    <polygon id="Path" points="2.64888447 7.75918509 20.9628224 7.75918509 20.9628224 23.6124224 2.64888447 23.6124224"></polygon>
+                    <polygon id="Path" points="4.67311304 9.79915528 10.8896199 9.79915528 10.8896199 12.7485615 4.67311304 12.7485615"></polygon>
+                    <polygon id="Path" points="12.7228025 9.79915528 18.9393093 9.79915528 18.9393093 12.7485615 12.7228025 12.7485615"></polygon>
+                    <path d="M4.67311304,14.5817441 L10.8896199,14.5817441 L4.67311304,14.5817441 Z" id="Path"></path>
+                    <path d="M4.67311304,16.7598112 L10.8896199,16.7598112 L4.67311304,16.7598112 Z" id="Path"></path>
+                    <path d="M4.67311304,18.9378783 L10.8896199,18.9378783 L4.67311304,18.9378783 Z" id="Path"></path>
+                    <path d="M4.67311304,21.1159453 L10.8896199,21.1159453 L4.67311304,21.1159453 Z" id="Path"></path>
+                    <path d="M12.7228025,14.5817441 L18.9393093,14.5817441 L12.7228025,14.5817441 Z" id="Path"></path>
+                    <path d="M12.7228025,16.7598112 L18.9393093,16.7598112 L12.7228025,16.7598112 Z" id="Path"></path>
+                    <path d="M12.7228025,18.9378783 L18.9393093,18.9378783 L12.7228025,18.9378783 Z" id="Path"></path>
+                    <path d="M12.7228025,21.1159453 L18.9393093,21.1159453 L12.7228025,21.1159453 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

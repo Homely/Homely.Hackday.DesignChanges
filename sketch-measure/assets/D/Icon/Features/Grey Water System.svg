@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>D/Icon/Features/Grey Water System</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icon/Unique/Grey-Water-System/Grey" transform="translate(-3.000000, -3.000000)" stroke="#A5B2BA">
+            <g id="D/Icon/Features/Grey-Water-System" transform="translate(4.000000, 4.000000)">
+                <g id="Grey-Water-System">
+                    <path d="M3.50327273,6.87490909 C3.50327273,6.87490909 7.00727273,10.4516364 7.00727273,13.1789091 C7.00727273,15.1141818 5.43854545,16.6829091 3.50327273,16.6829091 C1.56872727,16.6829091 0,15.1141818 0,13.1789091 C0,10.4516364 3.50327273,6.87490909 3.50327273,6.87490909"></path>
+                    <path d="M5.62981818,12.96 C5.62981818,13.9978182 4.93672727,14.8734545 3.98763636,15.1498182" id="Path"></path>
+                    <path d="M20.4967273,6.87490909 C20.4967273,6.87490909 24,10.4516364 24,13.1789091 C24,15.1141818 22.4312727,16.6829091 20.4967273,16.6829091 C18.5614545,16.6829091 16.9927273,15.1141818 16.9927273,13.1789091 C16.9927273,10.4516364 20.4967273,6.87490909 20.4967273,6.87490909" id="Path"></path>
+                    <path d="M22.6225455,12.96 C22.6225455,13.9978182 21.9294545,14.8734545 20.9803636,15.1498182" id="Path"></path>
+                    <path d="M3.63563636,4.60290909 C5.22763636,1.85090909 8.20290909,0 11.6109091,0 C15.0174545,0 17.992,1.85018182 19.5847273,4.6" id="Path"></path>
+                    <polyline id="Path" points="20.3643636 2.90981818 19.9105455 5.07490909 17.7454545 4.62109091"></polyline>
+                    <path d="M20.3643636,18.9549091 C18.7723636,21.7069091 15.7970909,23.5578182 12.3890909,23.5578182 C8.98254545,23.5578182 6.008,21.7076364 4.41527273,18.9578182" id="Path"></path>
+                    <polyline id="Path" points="3.63563636 20.648 4.08945455 18.4829091 6.25454545 18.9367273"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

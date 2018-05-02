@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>D/Icon/Features/Other Features</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icon/Unique/Other-Features/Grey" transform="translate(-3.000000, -3.000000)" stroke="#A5B2BA">
+            <g id="D/Icon/Features/Other-Features" transform="translate(4.000000, 4.000000)">
+                <g id="Other-Features">
+                    <path d="M17.1818182,12 L6.81818182,12 L17.1818182,12 Z" id="Path"></path>
+                    <path d="M12,6.81818182 L12,17.1818182 L12,6.81818182 Z" id="Path"></path>
+                    <path d="M21.8072727,12 C21.8072727,17.4167273 17.4167273,21.8072727 12,21.8072727 C6.58327273,21.8072727 2.19272727,17.4167273 2.19272727,12 C2.19272727,6.58327273 6.58327273,2.19272727 12,2.19272727 C17.4167273,2.19272727 21.8072727,6.58327273 21.8072727,12 L21.8072727,12 Z" id="Path"></path>
+                    <path d="M24,12 C24,18.6276364 18.6276364,24 12,24 C5.37236364,24 0,18.6276364 0,12 C0,5.37236364 5.37236364,0 12,0 C18.6276364,0 24,5.37236364 24,12 L24,12 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

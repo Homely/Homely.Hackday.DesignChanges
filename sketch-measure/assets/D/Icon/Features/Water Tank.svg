@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>D/Icon/Features/Water Tank</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icon/Unique/Water-Tank/Grey" transform="translate(-4.000000, -4.000000)" stroke="#A5B2BA">
+            <g id="D/Icon/Features/Water-Tank" transform="translate(4.000000, 4.000000)">
+                <g id="Water-Tank">
+                    <polygon id="Stroke-1" points="1.37142857 6.36411429 22.6285714 6.36411429 22.6285714 23.1709714 1.37142857 23.1709714"></polygon>
+                    <path d="M0.685714286,4.13554286 L12,0.5424 L0.685714286,4.13554286 Z" id="Path"></path>
+                    <path d="M23.3142857,4.13554286 L12,0.5424 L23.3142857,4.13554286 Z" id="Path"></path>
+                    <polygon id="Path" points="0.685714286 4.13554286 23.3142857 4.13554286 23.3142857 6.36411429 0.685714286 6.36411429"></polygon>
+                    <path d="M12,0.5424 L7.53257143,4.13554286 L12,0.5424 Z" id="Path"></path>
+                    <path d="M12,0.5424 L16.4674286,4.13554286 L12,0.5424 Z" id="Path"></path>
+                    <path d="M7.53257143,4.13554286 L7.53257143,6.36411429 L7.53257143,4.13554286 Z" id="Path"></path>
+                    <path d="M16.4674286,4.13554286 L16.4674286,6.36411429 L16.4674286,4.13554286 Z" id="Path"></path>
+                    <path d="M14.0637208,10.5428571 L22.6285714,10.5428571 L14.0637208,10.5428571 Z" id="Path"></path>
+                    <path d="M1.37142857,10.5428571 L9.82629403,10.5428571 L1.37142857,10.5428571 Z" id="Path"></path>
+                    <path d="M1.37142857,14.7860571 L7.64099129,14.7860571 L1.37142857,14.7860571 Z" id="Path"></path>
+                    <path d="M16.3287354,14.7860571 L22.6285714,14.7860571 L16.3287354,14.7860571 Z" id="Path"></path>
+                    <path d="M15.666626,19.0285714 L22.6285714,19.0285714 L15.666626,19.0285714 Z" id="Path"></path>
+                    <path d="M1.37142857,19.0285714 L8.40234383,19.0285714 L1.37142857,19.0285714 Z" id="Path"></path>
+                    <path d="M12,8.35748571 C12,8.35748571 16.3940571,12.8427429 16.3940571,16.2630857 C16.3940571,18.6898286 14.4267429,20.6571429 12,20.6571429 C9.57325714,20.6571429 7.60594286,18.6898286 7.60594286,16.2630857 C7.60594286,12.8427429 12,8.35748571 12,8.35748571" id="Stroke-4"></path>
+                    <path d="M14.6667429,15.9881143 C14.6667429,17.2896 13.7972571,18.3881143 12.6075429,18.7344" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

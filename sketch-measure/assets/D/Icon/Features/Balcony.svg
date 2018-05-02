@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="27px" viewBox="0 0 26 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>D/Icon/Features/Balcony</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icon/Unique/Balcony/Grey" transform="translate(-3.000000, -2.000000)" stroke="#A5B2BA">
+            <g id="D/Icon/Features/Balcony" transform="translate(4.000000, 3.000000)">
+                <g id="Balcony">
+                    <path d="M1.03275,14.43 L22.72725,14.43 L1.03275,14.43 Z"></path>
+                    <path d="M22.72725,21.92325 L1.03275,21.92325 L22.72725,21.92325 Z" id="Path"></path>
+                    <path d="M22.72725,14.43825 C22.72725,14.43825 23.76,16.11375 23.76,18.18075 C23.76,20.24775 22.72725,21.92325 22.72725,21.92325" id="Path"></path>
+                    <path d="M19.31325,14.43825 C19.31325,14.43825 19.87425,16.11375 19.87425,18.18075 C19.87425,20.24775 19.31325,21.92325 19.31325,21.92325" id="Path"></path>
+                    <path d="M15.66525,14.43825 C15.66525,14.43825 15.94575,16.11375 15.94575,18.18075 C15.94575,20.24775 15.66525,21.92325 15.66525,21.92325" id="Path"></path>
+                    <path d="M4.44675,14.43825 C4.44675,14.43825 3.88575,16.11375 3.88575,18.18075 C3.88575,20.24775 4.44675,21.92325 4.44675,21.92325" id="Path"></path>
+                    <path d="M8.09475,14.43825 C8.09475,14.43825 7.81425,16.11375 7.81425,18.18075 C7.81425,20.24775 8.09475,21.92325 8.09475,21.92325" id="Path"></path>
+                    <path d="M1.03275,14.43825 C1.03275,14.43825 0,16.11375 0,18.18075 C0,20.24775 1.03275,21.92325 1.03275,21.92325" id="Path"></path>
+                    <path d="M11.88,14.43 L11.88,21.92325 L11.88,14.43 Z" id="Path"></path>
+                    <polygon id="Path" points="1.03275 14.43 3.13125 14.43 3.13125 11.9655 1.03275 11.9655"></polygon>
+                    <polygon id="Path" points="20.628 14.43 22.7265 14.43 22.7265 11.9655 20.628 11.9655"></polygon>
+                    <polygon id="Path" points="6.219 0 17.54025 0 17.54025 14.43 6.219 14.43"></polygon>
+                    <path d="M6.219,4.46625 L17.541,4.46625 L6.219,4.46625 Z" id="Path"></path>
+                    <path d="M9.864,4.46625 L9.864,14.43825 L9.864,4.46625 Z" id="Path"></path>
+                    <polygon id="Path" points="1.03275 21.92325 22.7265 21.92325 22.7265 24.75 1.03275 24.75"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

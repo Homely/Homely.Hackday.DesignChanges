@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>D/Icon/Features/Tennis Court</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icon/Unique/Tennis-Court/Grey" transform="translate(-4.000000, -3.000000)" stroke="#A5B2BA">
+            <g id="D/Icon/Features/Tennis-Court" transform="translate(4.000000, 3.000000)">
+                <g id="Tennis-Court">
+                    <path d="M4.17874286,0.685714286 L19.8212571,0.685714286" id="Stroke-1"></path>
+                    <path d="M23.3142857,23.3142857 L0.685714286,23.3142857" id="Path"></path>
+                    <path d="M2.63659672,10.7301025 C1.97815801,14.9956066 0.685714286,23.3142857 0.685714286,23.3142857" id="Path"></path>
+                    <path d="M4.17874286,0.685714286 L3.38759331,5.8109469" id="Path"></path>
+                    <path d="M21.3710327,10.7631836 C22.0210214,14.9739467 23.3142857,23.3142857 23.3142857,23.3142857" id="Path"></path>
+                    <path d="M19.8212571,0.685714286 C19.8212571,0.685714286 20.353994,4.13689517 20.6203624,5.86248561" id="Path"></path>
+                    <path d="M5.45691429,17.7716571 L18.5430857,17.7716571" id="Path"></path>
+                    <path d="M4.776,23.3142857 L5.94393683,10.7599159" id="Path"></path>
+                    <path d="M6.38000011,5.80000019 C6.55463467,4.19541139 6.88114286,0.685714286 6.88114286,0.685714286" id="Path"></path>
+                    <path d="M17.5929565,5.79809574 L17.1188571,0.685714286" id="Path"></path>
+                    <path d="M19.224,23.3142857 L18.055566,10.7545712" id="Path"></path>
+                    <path d="M12,3.5 L12,5.5" id="Path"></path>
+                    <path d="M12,10.9050293 L12,17.5" id="Path"></path>
+                    <polygon id="Stroke-4" points="1.23908571 10.704 22.7616 10.704 22.7616 5.88617143 1.23908571 5.88617143"></polygon>
+                    <path d="M1.23908571,8.28754286 L22.7609143,8.28754286 L1.23908571,8.28754286 Z" id="Path"></path>
+                    <path d="M4.29874286,6.98742857 L4.29874286,9.58765714 L4.29874286,6.98742857 Z" id="Path"></path>
+                    <path d="M6.86537143,6.98742857 L6.86537143,9.58765714 L6.86537143,6.98742857 Z" id="Path"></path>
+                    <path d="M9.43268571,6.98742857 L9.43268571,9.58765714 L9.43268571,6.98742857 Z" id="Path"></path>
+                    <path d="M12,6.98742857 L12,9.58765714 L12,6.98742857 Z" id="Path"></path>
+                    <path d="M14.5673143,6.98742857 L14.5673143,9.58765714 L14.5673143,6.98742857 Z" id="Path"></path>
+                    <path d="M17.1346286,6.98742857 L17.1346286,9.58765714 L17.1346286,6.98742857 Z" id="Path"></path>
+                    <path d="M19.7012571,6.98742857 L19.7012571,9.58765714 L19.7012571,6.98742857 Z" id="Path"></path>
+                    <path d="M6.64868571,3.31405714 L17.3513143,3.31405714 L6.64868571,3.31405714 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

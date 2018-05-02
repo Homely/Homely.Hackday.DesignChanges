@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>D/Icon/Features/Broadband</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icon/Unique/Broadband/Grey" transform="translate(-5.000000, -4.000000)" stroke="#A5B2BA">
+            <g id="D/Icon/Features/Broadband" transform="translate(5.000000, 5.000000)">
+                <g id="Broadband-Internet">
+                    <path d="M14.5961143,13.6415143 C12.7858286,11.8312286 9.84137143,11.8319143 8.03245714,13.6415143 L6.3312,11.9402571 C9.07885714,9.1926 13.5504,9.1926 16.2973714,11.9402571 L14.5961143,13.6415143 L14.5961143,13.6415143 Z"></path>
+                    <path d="M17.5638857,9.75831429 C14.1174857,6.67534286 8.5104,6.67602858 5.06468571,9.75831429 L3.16251429,8.05705715 C7.65668571,4.03602858 14.9712,4.03534286 19.4660571,8.05705715 L17.5638857,9.75831429 L17.5638857,9.75831429 Z" id="Path"></path>
+                    <path d="M20.8093714,6.07877143 C15.5746286,1.1814 7.05531429,1.18071429 1.8192,6.07877143 L0,4.37682858 C6.23931429,-1.45928571 16.3906286,-1.4586 22.6285714,4.37682858 L20.8093714,6.07877143 L20.8093714,6.07877143 Z" id="Path"></path>
+                    <path d="M11.3142857,17.6783143 L9.61302857,15.9770571 L11.3142857,17.6783143 Z" id="Path"></path>
+                    <path d="M11.3142857,17.6783143 L13.0155429,15.9770571 L11.3142857,17.6783143 Z" id="Path"></path>
+                    <polygon id="Path" points="5.62354286 17.6783143 17.0050286 17.6783143 17.0050286 21.2502 5.62354286 21.2502"></polygon>
+                    <path d="M13.9968,19.4639143 L15.2578286,19.4639143 L13.9968,19.4639143 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

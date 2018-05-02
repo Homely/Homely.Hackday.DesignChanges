@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>D/Icon/Features/Area</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icon/Unique/Area/Grey" transform="translate(-4.000000, -4.000000)" stroke="#A5B2BA">
+            <g id="D/Icon/Features/Area" transform="translate(5.000000, 5.000000)">
+                <g id="Area">
+                    <polygon points="9.38537143 22.7142857 0 22.7142857 0 3.51428571 22.6285714 3.51428571 22.6285714 22.7142857 14.6139429 22.7142857"></polygon>
+                    <path d="M9.38537143,22.7142857 L12.6329143,20.3574857 L9.38537143,22.7142857 Z" id="Path"></path>
+                    <polygon id="Path" points="12.6329143 11.1428571 12.6329143 3.51428571 0 3.51428571 0 11.1428571 8.47542857 11.1428571"></polygon>
+                    <polygon id="Path" points="0.899657143 3.51428571 21.7282286 3.51428571 21.7282286 0 0.899657143 0"></polygon>
+                    <path d="M15.7282286,8.09965714 L22.6285714,8.09965714 L15.7282286,8.09965714 Z" id="Path"></path>
+                    <path d="M15.7282286,22.6758857 L15.7282286,14.6619429 L15.7282286,22.6758857 Z" id="Path"></path>
+                    <path d="M9.38537143,22.6758857 L9.38537143,16.0333714 L9.38537143,22.6758857 Z" id="Path"></path>
+                    <path d="M0,16.0333714 L7.23222857,16.0333714 L0,16.0333714 Z" id="Path"></path>
+                    <path d="M3.01028571,3.51428571 L3.01028571,0 L3.01028571,3.51428571 Z" id="Path"></path>
+                    <path d="M19.6182857,3.51428571 L19.6182857,0 L19.6182857,3.51428571 Z" id="Path"></path>
+                    <path d="M15.7282286,14.6619429 L19.4180571,14.6619429 L15.7282286,14.6619429 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

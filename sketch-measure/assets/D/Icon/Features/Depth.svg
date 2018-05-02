@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>D/Icon/Features/Depth</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icon/Unique/Depth/Grey" transform="translate(-4.000000, -4.000000)" stroke="#A5B2BA">
+            <g id="D/Icon/Features/Depth" transform="translate(5.000000, 5.000000)">
+                <g id="Depth">
+                    <path d="M13.7485714,0.0109714286 L17.0009143,17.0592"></path>
+                    <path d="M0,17.0427429 L3.2784,0" id="Path"></path>
+                    <path d="M3.26537143,0.00548571429 L13.7485714,0.00548571429" id="Path"></path>
+                    <path d="M17.0009143,17.0509714 L0.0130285714,17.0509714" id="Path"></path>
+                    <path d="M0.00685714286,18.4422857 L0.00685714286,22.6285714" id="Path"></path>
+                    <path d="M17.0009143,18.4422857 L17.0009143,22.6285714" id="Path"></path>
+                    <path d="M1.7856,20.4637714 L15.2214857,20.4637714" id="Path"></path>
+                    <polyline id="Path" points="14.0653714 19.3076571 15.2214857 20.4637714 14.0653714 21.6205714"></polyline>
+                    <polyline id="Path" points="2.9424 21.6205714 1.7856 20.4637714 2.9424 19.3076571"></polyline>
+                    <path d="M17.2772571,1.71977143 L20.2532571,15.3497143" id="Path"></path>
+                    <polyline id="Path" points="21.1172571 13.9611429 20.2532571 15.3497143 18.8646857 14.4857143"></polyline>
+                    <polyline id="Path" points="16.4132571 3.10902857 17.2772571 1.71977143 18.6658286 2.58377143"></polyline>
+                    <path d="M15.2214857,0 L18.4642286,0" id="Path"></path>
+                    <path d="M18.4244571,17.0427429 L22.5408,17.0427429" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

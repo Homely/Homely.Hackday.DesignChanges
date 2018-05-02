@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="25px" viewBox="0 0 21 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>D/Icon/Features/Toilets</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icon/Unique/Toilets/Grey" transform="translate(-6.000000, -3.000000)" stroke="#A5B2BA">
+            <g id="D/Icon/Features/Toilets" transform="translate(7.000000, 4.000000)">
+                <g id="Toilets">
+                    <path d="M1.95027957,22.7096774 L13.3415914,22.7096774" id="Stroke-1"></path>
+                    <path d="M13.2500645,17.516043 L5.53496774,17.516043 L5.53496774,11.9466667 L18.5145806,11.9466667 C18.5145806,11.9466667 18.2606452,17.516043 13.2500645,17.516043 L13.2500645,17.516043 Z" id="Stroke-5"></path>
+                    <path d="M12.0526452,17.516043 L11.0905806,20.4586667 L12.0526452,17.516043 Z" id="Path"></path>
+                    <path d="M4.20060215,20.4586667 L2.14021505,17.516043 L4.20060215,20.4586667 Z" id="Path"></path>
+                    <path d="M5.53496774,2.00670968 L5.53496774,17.516043 L0.0660645161,17.516043 L0.0660645161,2.00670968 C0.0660645161,0.66683871 1.29032258,0 2.80086022,0 C4.31070968,0 5.53496774,0.66683871 5.53496774,2.00670968 L5.53496774,2.00670968 Z" id="Path"></path>
+                    <path d="M16.2635699,9.69565591 C17.5070968,9.69565591 18.5145806,10.703828 18.5145806,11.9466667" id="Path"></path>
+                    <path d="M16.2635699,9.69565591 L5.53496774,9.69565591 L16.2635699,9.69565591 Z" id="Path"></path>
+                    <path d="M11.0905806,20.4586667 C12.3334194,20.4586667 13.3415914,21.4668387 13.3415914,22.7096774" id="Path"></path>
+                    <path d="M4.20060215,20.4586667 C2.95776344,20.4586667 1.95027957,21.4668387 1.95027957,22.7096774" id="Path"></path>
+                    <path d="M11.0905806,20.4586667 L4.20060215,20.4586667 L11.0905806,20.4586667 Z" id="Path"></path>
+                    <path d="M5.53496774,2.00670968 L0.0660645161,2.00670968 L5.53496774,2.00670968 Z" id="Path"></path>
+                    <path d="M2.14021505,17.516043 L2.14021505,2.00670968 L2.14021505,17.516043 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
